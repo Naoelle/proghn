@@ -1,5 +1,6 @@
 html {
     background-color: #C39BD3;
+    /* Selection de la couleur du fond */
     font-size: 14px;
     width: 100%;
 }
@@ -12,6 +13,9 @@ h2 {
     font-size: 2em; 
 }
 
+/* Utilisation de mesures relatives pour modifier la taille de h1 et h2 */
+
+
 #page {
     margin: 0 auto;
     max-width: 60%; 
@@ -19,16 +23,15 @@ h2 {
     border: 20px solid #FFCDD2;
 }
 
-.entete {
+#entete {
     text-align: center;
 }
 
 #aboutme {
-    #FFC0CB
-
-
+   background-color: #FFC0CB;
 }
 
 footer {
     text-align: center;
 }
+/* Alignement du footer */
